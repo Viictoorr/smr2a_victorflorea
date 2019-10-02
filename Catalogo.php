@@ -1,4 +1,4 @@
-<hrml>
+<html>
 <h1>
 <a href="http://192.168.0.72/smr2a_VictorFlorea/smr2a.php"> <---</a><center>Listado GitHub<center>
 </h1>
